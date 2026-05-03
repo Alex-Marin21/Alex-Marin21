@@ -8,14 +8,6 @@ I am a 3rd-year student pursuing a degree in Systems Engineering at the Faculty 
 * Open to software engineering internships and collaborative project opportunities.
 
 ### Technical Skills
-* **Primary Languages:** Java, JavaScript, HTML, CSS
-* **Familiar With:** Python
+* **Primary Languages:** Java, JavaScript, HTML, CSS, C, C++
+* **Familiar With:** Python, Assembly
 * **Interests:** Full-Stack Web Development, Object-Oriented Programming, Software Engineering
-
-### Current Projects
-* Developing a database management application in Java.
-* Exploring front-end web development through various UI clones and interactive scripts.
-
-### Contact
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Email:** [Insert your professional email address here]
