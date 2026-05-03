@@ -8,6 +8,8 @@ I am a 3rd-year student pursuing a degree in Systems Engineering at the Faculty 
 * Open to software engineering internships and collaborative project opportunities.
 
 ### Technical Skills
-* **Primary Languages:** Java, JavaScript, HTML, CSS, C, C++
-* **Familiar With:** Python, Assembly
-* **Interests:** Full-Stack Web Development, Object-Oriented Programming, Software Engineering
+* **Primary Languages:** Java, C, C++, JavaScript, TypeScript, HTML, CSS
+* **Familiar With:** Python, Assembly, SQL, Bash / Shell Scripting
+* **Hardware & Embedded:** Microprocessors Architecture, Xilinx Vivado, Hardware Description Languages (Verilog / VHDL)
+* **Tools & Environments:** Git, Linux / Unix, Node.js
+* **Interests:** Full-Stack Web Development, Object-Oriented Programming, Software Engineering, Embedded Systems
