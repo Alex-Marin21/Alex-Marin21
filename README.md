@@ -1,16 +1,21 @@
-## Hi there 👋
+# Alex Marin
 
-<!--
-**Alex-Marin21/Alex-Marin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a 3rd-year student pursuing a degree in Systems Engineering at the Faculty of Automatic Control and Computers (ACS), National University of Science and Technology Politehnica Bucharest (UPB). I have a strong interest in building scalable software and am consistently working to improve my development skills.
 
-Here are some ideas to get you started:
+* Currently studying core engineering concepts and applying them to software projects.
+* Focusing on improving my knowledge of backend architecture and interactive web applications.
+* Open to software engineering internships and collaborative project opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+* **Primary Languages:** Java, JavaScript, HTML, CSS
+* **Familiar With:** Python
+* **Interests:** Full-Stack Web Development, Object-Oriented Programming, Software Engineering
+
+### Current Projects
+* Developing a database management application in Java.
+* Exploring front-end web development through various UI clones and interactive scripts.
+
+### Contact
+* **LinkedIn:** [Insert your LinkedIn URL here]
+* **Email:** [Insert your professional email address here]
